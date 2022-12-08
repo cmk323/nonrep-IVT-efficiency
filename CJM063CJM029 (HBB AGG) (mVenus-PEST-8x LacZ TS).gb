@@ -1,0 +1,200 @@
+LOCUS       CJM063::CJM029_(HBB_AGG 3557 bp ds-DNA     circular     15-JUN-2022
+DEFINITION  .
+KEYWORDS    "Gene" "Amino Acid Chain" "Signal Peptide" "Signal Sequence"
+            "Promoter" "Parent Plasmid" "UTR" "Target Site(s)" "Linker"
+            "Program" "MoClo Tier" "Restriction Enzyme Recognition Site"
+            "Antibiotic Resistance" "Correct Clone to Use:p1047-003"
+FEATURES             Location/Qualifiers
+     Terminator      complement(505..532)
+                     /label="rrnB_T2 term"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     Terminator      complement(664..707)
+                     /label="rrnB_T1 term"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     primer          706..726
+                     /label="Lvl1-seqF1"
+                     /note="sequence: ATTTGATGCCTGGCAGTTCCC"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    801..807
+                     /label="SapI"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     primer          complement(802..820)
+                     /label="oWAT014"
+                     /note="sequence: TCGTATTAGGTGCGAAGAG"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    813..829
+                     /label="T7 Promoter_CleanCap AU"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     primer          821..842
+                     /label="oWAT013"
+                     /note="sequence: CTCACTATAAgGTTTGCTTCTG"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    830..879
+                     /label="AUA->AUG HBB 5'-UTR"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    880..885
+                     /label="Kozack Sequence"
+                     /ApEinfo_revcolor="#f6989d"
+                     /ApEinfo_fwdcolor="#f6989d"
+     misc_feature    886..1602
+                     /label="mVenus"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     CDS             886..1602
+                     /label="Translation 886-1602"
+                     /translation="MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTLGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK"
+     CDS             1603..1728
+                     /label="PEST"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     CDS             1603..1728
+                     /label="Translation 1603-1728"
+                     /translation="KLSHGFPPEVEEQDDGTLPMSCAQESGMDRHPAACASARINV"
+     misc_feature    1710..1823
+                     /label="SumCJM026"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             1729..1734
+                     /label="Translation 1729-1734"
+                     /translation="**"
+     misc_feature    1735..1742
+                     /label="LacZ TS"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    1743..1750
+                     /label="LacZ TS"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    1751..1758
+                     /label="LacZ TS"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    1759..1766
+                     /label="LacZ TS"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    1767..1774
+                     /label="LacZ TS"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    1775..1782
+                     /label="LacZ TS"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    1783..1790
+                     /label="LacZ TS"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    1791..1798
+                     /label="LacZ TS"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    1799..1734
+                     /label="WAT001"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     primer          1799..1825
+                     /label="HBB PolyA seq F"
+                     /note="sequence: gctcgctttcttgctgtccaatttcta"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    1799..1930
+                     /label="HBB 3'-UTR"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     primer          complement(1881..1930)
+                     /label="HBB-3'-UTR-Rev"
+                     /note="sequence: gcaatgaaaataaatgttttttattaggcagaatccagatgctcaaggcc"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     polyA_site      1931..2038
+                     /label="A30-70"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    2044..2050
+                     /label="SapI"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     primer          complement(2101..2122)
+                     /label="lvl 1 Seq Rev"
+                     /note="sequence: CTTGTGCAATGTAACATCAGAG"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     CDS             2188..2997
+                     /label="Kanamycin resistance gene"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     rep_origin      3118..234
+                     /label="pUC origin"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+ORIGIN
+        1 CGAAGGGAGA AAGGCGGACA GGTATCCGGT AAGCGGCAGG GTCGGAACAG GAGAGCGCAC
+       61 GAGGGAGCTT CCAGGGGGAA ACGCCTGGTA TCTTTATAGT CCTGTCGGGT TTCGCCACCT
+      121 CTGACTTGAG CGTCGATTTT TGTGATGCTC GTCAGGGGGG CGGAGCCTAT GGAAAAACGC
+      181 CAGCAACGCG GCCTTTTTAC GGTTCCTGGC CTTTTGCTGG CCTTTTGCTC ACATGTTCTT
+      241 TCCTGCGTTA TCCCCTGATT CTGTGGATAA CCGTATTACC GCCTTTGAGT GAGCTGATAC
+      301 CGCTCGCCGC AGCCGAACGA CCGAGCGCAG CGAGTCAGTG AGCGAGGAAG CGGAGGAGCG
+      361 CCCAATACGC AAACCGCCTC TCCCCGCGCG TTGGCCGATT CATTAATGCA GCTGGCACGA
+      421 CAGGTTTCCC GACTGGAAAG CGGGCAGTGA GCGCAACGCA ATTAATACGC GTACCGCTAG
+      481 CCAGGAAGAG TTTGTAGAAA CGCAAAAAGG CCATCCGTCA GGATGGCCTT CTGCTTAGTT
+      541 TGATGCCTGG CAGTTTATGG CGGGCGTCCT GCCCGCCACC CTCCGGGCCG TTGCTTCACA
+      601 ACGTTCAAAT CCGCTCCCGG CGGATTTGTC CTACTCAGGA GAGCGTTCAC CGACAAACAA
+      661 CAGATAAAAC GAAAGGCCCA GTCTTCCGAC TGAGCCTTTC GTTTTATTTG ATGCCTGGCA
+      721 GTTCCCTACT CTCGCGTTAA CGCTAGCATG GATGTTTTCC CAGTCACGAC GTTGTAAAAC
+      781 GACGGCCAGT CTTAAGCTCG GCTCTTCGCA CCTAATACGA CTCACTATAa GGtttgcttc
+      841 tgacacaact gtgttcacta gcaacctcaa acagacaccg ccaccatggt gagcaagggc
+      901 gaggagctgt tcaccggggt ggtgcccatc ctggtcgagc tggacggcga cgtaaacggc
+      961 cacaagttca gcgtgtccgg cgagggcgag ggcgatgcca cctacggcaa gctgaccctg
+     1021 aagctgatct gcaccaccgg caagctgccc gtgccctggc ccaccctcgt gaccaccctg
+     1081 ggctacggcc tgcagtgctt cgcccgctac cccgaccaca tgaagcagca cgacttcttc
+     1141 aagtccgcca tgcccgaagg ctacgtccag gagcgcacca tcttcttcaa ggacgacggc
+     1201 aactacaaga cccgcgccga ggtgaagttc gagggcgaca ccctggtgaa ccgcatcgag
+     1261 ctgaagggca tcgacttcaa ggaggacggc aacatcctgg ggcacaagct ggagtacaac
+     1321 tacaacagcc acaacgtcta tatcaccgcc gacaagcaga agaacggcat caaggccaac
+     1381 ttcaagatcc gccacaacat cgaggacggc ggcgtgcagc tcgccgacca ctaccagcag
+     1441 aacaccccca tcggcgacgg ccccgtgctg ctgcccgaca accactacct gagctaccag
+     1501 tccaagctga gcaaagaccc caacgagaag cgcgatcaca tggtcctgct ggagttcgtg
+     1561 accgccgccg ggatcactct cggcatggac gagctgtaca agaagcttag ccatggcttc
+     1621 ccgccggagg tggaggagca ggatgatggc acgctgccca tgtcttgtgc ccaggagagc
+     1681 gggatggacc gtcaccctgc agcctgtgct tctgctagga tcaatgtgtg ataaaatgga
+     1741 tgaatggatg aatggatgaa tggatgaatg gatgaatgga tgaatggatg aatggatggc
+     1801 tcgctttctt gctgtccaat ttctattaaa ggttcctttg ttccctaagt ccaactacta
+     1861 aactggggga tattatgaag ggccttgagc atctggattc tgcctaataa aaaacattta
+     1921 ttttcattgc aaaaaaaaaa aaaaaaaaaa aaaaaaaagc atatgactaa aaaaaaaaaa
+     1981 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaA
+     2041 TAAGAAGAGC ATCCCATGGT CATAGCTGTT TCCTGGCAGC TCTGGCCCGT GTCTCAAAAT
+     2101 CTCTGATGTT ACATTGCACA AGATAAAAAT ATATCATCAT GAACAATAAA ACTGTCTGCT
+     2161 TACATAAACA GTAATACAAG GGGTGTTATG AGCCATATTC AACGGGAAAC GTCGAGGCCG
+     2221 CGATTAAATT CCAACATGGA TGCTGATTTA TATGGGTATA AATGGGCTCG CGATAATGTC
+     2281 GGGCAATCAG GTGCGACAAT CTATCGCTTG TATGGGAAGC CCGATGCGCC AGAGTTGTTT
+     2341 CTGAAACATG GCAAAGGTAG CGTTGCCAAT GATGTTACAG ATGAGATGGT CAGACTAAAC
+     2401 TGGCTGACGG AATTTATGCC TCTTCCGACC ATCAAGCATT TTATCCGTAC TCCTGATGAT
+     2461 GCATGGTTAC TCACCACTGC GATCCCCGGA AAAACAGCAT TCCAGGTATT AGAAGAATAT
+     2521 CCTGATTCAG GTGAAAATAT TGTTGATGCG CTGGCAGTGT TCCTGCGCCG GTTGCATTCG
+     2581 ATTCCTGTTT GTAATTGTCC TTTTAACAGC GATCGCGTAT TTCGTCTCGC TCAGGCGCAA
+     2641 TCACGAATGA ATAACGGTTT GGTTGATGCG AGTGATTTTG ATGACGAGCG TAATGGCTGG
+     2701 CCTGTTGAAC AAGTCTGGAA AGAAATGCAT AAACTTTTGC CATTCTCACC GGATTCAGTC
+     2761 GTCACTCATG GTGATTTCTC ACTTGATAAC CTTATTTTTG ACGAGGGGAA ATTAATAGGT
+     2821 TGTATTGATG TTGGACGAGT CGGAATCGCA GACCGATACC AGGATCTTGC CATCCTATGG
+     2881 AACTGCCTCG GTGAGTTTTC TCCTTCATTA CAGAAACGGC TTTTTCAAAA ATATGGTATT
+     2941 GATAATCCTG ATATGAATAA ATTGCAGTTT CATTTGATGC TCGATGAGTT TTTCTAATCA
+     3001 GAATTGGTTA ATTGGTTGTA ACACTGGCAG AGCATTACGC TGACTTGACG GGACGGCGCA
+     3061 AGCTCATGAC CAAAATCCCT TAACGTGAGT TACGCGTCGT TCCACTGAGC GTCAGACCCC
+     3121 GTAGAAAAGA TCAAAGGATC TTCTTGAGAT CCTTTTTTTC TGCGCGTAAT CTGCTGCTTG
+     3181 CAAACAAAAA AACCACCGCT ACCAGCGGTG GTTTGTTTGC CGGATCAAGA GCTACCAACT
+     3241 CTTTTTCCGA AGGTAACTGG CTTCAGCAGA GCGCAGATAC CAAATACTGT TCTTCTAGTG
+     3301 TAGCCGTAGT TAGGCCACCA CTTCAAGAAC TCTGTAGCAC CGCCTACATA CCTCGCTCTG
+     3361 CTAATCCTGT TACCAGTGGC TGCTGCCAGT GGCGATAAGT CGTGTCTTAC CGGGTTGGAC
+     3421 TCAAGACGAT AGTTACCGGA TAAGGCGCAG CGGTCGGGCT GAACGGGGGG TTCGTGCACA
+     3481 CAGCCCAGCT TGGAGCGAAC GACCTACACC GAACTGAGAT ACCTACAGCG TGAGCTATGA
+     3541 GAAAGCGCCA CGCTTCC
+//
