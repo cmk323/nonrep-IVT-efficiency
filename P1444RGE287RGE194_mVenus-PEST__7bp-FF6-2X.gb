@@ -1,0 +1,221 @@
+LOCUS       P1444::RGE287::RGE194_m 3546 bp ds-DNA     circular     26-SEP-2022
+DEFINITION  .
+KEYWORDS    "Gene:Part\: mVenus-PEST (no stop)" "Amino Acid Chain" "Signal
+            Peptide" "Signal Sequence" "Promoter:Part\: T7 Promoter_CleanCap"
+            "Parent Plasmid" "UTR:Part\: AGG HBB 5'-UTR, Part\: HBB 3'-UTR,
+            Part\: 30-70 split AUA end" "Target Site(s):Part\: FF6 TS, Part\:
+            FF6 TS" "Linker" "Program" "MoClo Tier:Lvl0-S" "Restriction Enzyme
+            Recognition Site" "Antibiotic Resistance:Part\: Kanamycin"
+COMMENT     Imported using the Genbank importer. File name: benchling_export.gb
+FEATURES             Location/Qualifiers
+     Antibiotic Resistance 1..810
+                           /label="Kanamycin resistance gene"
+                           /ApEinfo_revcolor="#c6c9d1"
+                           /ApEinfo_fwdcolor="#c6c9d1"
+     Antibiotic Resistance 1..810
+                           /label="Kanamycin resistance gene"
+                           /ApEinfo_revcolor="#c6c9d1"
+                           /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature          1..810
+                           /label="Part: Kanamycin"
+     misc_feature          597..602
+                           /label="Double Stop"
+                           /ApEinfo_revcolor="#b7e6d7"
+                           /ApEinfo_fwdcolor="#b7e6d7"
+     misc_feature          597..602
+                           /label="Double Stop"
+                           /ApEinfo_revcolor="#b7e6d7"
+                           /ApEinfo_fwdcolor="#b7e6d7"
+     misc_feature          753..758
+                           /label="Double Stop"
+                           /ApEinfo_revcolor="#b7e6d7"
+                           /ApEinfo_fwdcolor="#b7e6d7"
+     misc_feature          753..758
+                           /label="Double Stop"
+                           /ApEinfo_revcolor="#b7e6d7"
+                           /ApEinfo_fwdcolor="#b7e6d7"
+     Origin                931..1604
+                           /label="pUC origin"
+                           /ApEinfo_revcolor="#c6c9d1"
+                           /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature          1127..1132
+                           /label="Kozack"
+                           /ApEinfo_revcolor="#f58a5e"
+                           /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature          1484..1489
+                           /label="Kozack"
+                           /ApEinfo_revcolor="#f58a5e"
+                           /ApEinfo_fwdcolor="#f58a5e"
+     primer                1496..1515
+                           /label="SP042-pUC-F"
+                           /note="sequence: TTGAGCGTCGATTTTTGTGA"
+                           /ApEinfo_revcolor="#f7977a"
+                           /ApEinfo_fwdcolor="#f7977a"
+     primer                1547..1566
+                           /label="SP015-Lvl2-bbone-rev-seq"
+                           /note="sequence: ACGCCAGCAACGCGGCCTTT"
+                           /ApEinfo_revcolor="#f7977a"
+                           /ApEinfo_fwdcolor="#f7977a"
+     primer                complement(1733..1753)
+                           /label="SP016-Lvl0-seqF"
+                           /note="sequence: GGAGAGGCGGTTTGCGTATTG"
+                           /ApEinfo_revcolor="#f7977a"
+                           /ApEinfo_fwdcolor="#f7977a"
+     misc_feature          1945..1950
+                           /label="Kozack"
+                           /ApEinfo_revcolor="#f58a5e"
+                           /ApEinfo_fwdcolor="#f58a5e"
+     primer                2076..2096
+                           /label="SP021-Lvl1-seqF1"
+                           /note="sequence: ATTTGATGCCTGGCAGTTCCC"
+                           /ApEinfo_revcolor="#f7977a"
+                           /ApEinfo_fwdcolor="#f7977a"
+     misc_feature          2171..2177
+                           /label="SapI"
+                           /ApEinfo_revcolor="#f58a5e"
+                           /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature          2183..2199
+                           /label="Part: T7 Promoter_CleanCap"
+     misc_feature          2200..2249
+                           /label="Part: AGG HBB 5'-UTR"
+     misc_feature          2250..2255
+                           /label="Kozack"
+                           /ApEinfo_revcolor="#f58a5e"
+                           /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature          2256..2972
+                           /label="mVenus"
+                           /ApEinfo_revcolor="#ffef86"
+                           /ApEinfo_fwdcolor="#ffef86"
+     CDS                   2256..3098
+                           /label="Translation 2256-3098"
+                           /translation="MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTLGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYKKLSHGFPPEVEEQDDGTLPMSCAQESGMDRHPAACASARINV"
+     misc_feature          2256..3098
+                           /label="Part: mVenus-PEST (no stop)"
+     misc_feature          2367..2372
+                           /label="Kozack"
+                           /ApEinfo_revcolor="#f58a5e"
+                           /ApEinfo_fwdcolor="#f58a5e"
+     CDS                   2973..3098
+                           /label="PEST"
+                           /ApEinfo_revcolor="#f58a5e"
+                           /ApEinfo_fwdcolor="#f58a5e"
+     primer                2998..3021
+                           /label="SP053"
+                           /note="sequence: aggtggaggagcaggatgatggca"
+                           /ApEinfo_revcolor="#faac61"
+                           /ApEinfo_fwdcolor="#faac61"
+     misc_feature          3099..3104
+                           /label="Double Stop"
+                           /ApEinfo_revcolor="#b7e6d7"
+                           /ApEinfo_fwdcolor="#b7e6d7"
+     misc_feature          3105..3111
+                           /label="7bp Spacer from Nat. Biotech"
+                           /ApEinfo_revcolor="#85dae9"
+                           /ApEinfo_fwdcolor="#85dae9"
+     misc_feature          3112..3133
+                           /label="FF6 TS"
+                           /ApEinfo_revcolor="#84b0dc"
+                           /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature          3112..3133
+                           /label="Part: FF6 TS"
+     misc_feature          3134..3155
+                           /label="FF6 TS"
+                           /ApEinfo_revcolor="#84b0dc"
+                           /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature          3134..3155
+                           /label="Part: FF6 TS"
+     primer                3156..3182
+                           /label="SP043-HBB PolyA seq F"
+                           /note="sequence: gctcgctttcttgctgtccaatttcta"
+                           /ApEinfo_revcolor="#f7977a"
+                           /ApEinfo_fwdcolor="#f7977a"
+     primer                3156..3182
+                           /label="SP043-HBB PolyA seq F"
+                           /note="sequence: gctcgctttcttgctgtccaatttcta"
+                           /ApEinfo_revcolor="#f7977a"
+                           /ApEinfo_fwdcolor="#f7977a"
+     misc_feature          3156..3287
+                           /label="Part: HBB 3'-UTR"
+     primer                complement(3268..3287)
+                           /label="SP044-3'HBB UTR Rev"
+                           /note="sequence: gcaatgaaaataaatgtttt"
+                           /ApEinfo_revcolor="#f7977a"
+                           /ApEinfo_fwdcolor="#f7977a"
+     primer                complement(3268..3287)
+                           /label="SP044-3'HBB UTR Rev"
+                           /note="sequence: gcaatgaaaataaatgtttt"
+                           /ApEinfo_revcolor="#f7977a"
+                           /ApEinfo_fwdcolor="#f7977a"
+     misc_feature          3288..3401
+                           /label="Part: 30-70 split AUA end"
+     misc_feature          complement(3403..3409)
+                           /label="SapI"
+                           /ApEinfo_revcolor="#f58a5e"
+                           /ApEinfo_fwdcolor="#f58a5e"
+     primer                complement(3460..3481)
+                           /label="SP017-Lvl1-seqRev1"
+                           /note="sequence: CTTGTGCAATGTAACATCAGAG"
+                           /ApEinfo_revcolor="#f7977a"
+                           /ApEinfo_fwdcolor="#f7977a"
+ORIGIN
+        1 ATGAGCCATA TTCAACGGGA AACGTCGAGG CCGCGATTAA ATTCCAACAT GGATGCTGAT
+       61 TTATATGGGT ATAAATGGGC TCGCGATAAT GTCGGGCAAT CAGGTGCGAC AATCTATCGC
+      121 TTGTATGGGA AGCCCGATGC GCCAGAGTTG TTTCTGAAAC ATGGCAAAGG TAGCGTTGCC
+      181 AATGATGTTA CAGATGAGAT GGTCAGACTA AACTGGCTGA CGGAATTTAT GCCTCTTCCG
+      241 ACCATCAAGC ATTTTATCCG TACTCCTGAT GATGCATGGT TACTCACCAC TGCGATCCCC
+      301 GGAAAAACAG CATTCCAGGT ATTAGAAGAA TATCCTGATT CAGGTGAAAA TATTGTTGAT
+      361 GCGCTGGCAG TGTTCCTGCG CCGGTTGCAT TCGATTCCTG TTTGTAATTG TCCTTTTAAC
+      421 AGCGATCGCG TATTTCGTCT CGCTCAGGCG CAATCACGAA TGAATAACGG TTTGGTTGAT
+      481 GCGAGTGATT TTGATGACGA GCGTAATGGC TGGCCTGTTG AACAAGTCTG GAAAGAAATG
+      541 CATAAACTTT TGCCATTCTC ACCGGATTCA GTCGTCACTC ATGGTGATTT CTCACTTGAT
+      601 AACCTTATTT TTGACGAGGG GAAATTAATA GGTTGTATTG ATGTTGGACG AGTCGGAATC
+      661 GCAGACCGAT ACCAGGATCT TGCCATCCTA TGGAACTGCC TCGGTGAGTT TTCTCCTTCA
+      721 TTACAGAAAC GGCTTTTTCA AAAATATGGT ATTGATAATC CTGATATGAA TAAATTGCAG
+      781 TTTCATTTGA TGCTCGATGA GTTTTTCTAA TCAGAATTGG TTAATTGGTT GTAACACTGG
+      841 CAGAGCATTA CGCTGACTTG ACGGGACGGC GCAAGCTCAT GACCAAAATC CCTTAACGTG
+      901 AGTTACGCGT CGTTCCACTG AGCGTCAGAC CCCGTAGAAA AGATCAAAGG ATCTTCTTGA
+      961 GATCCTTTTT TTCTGCGCGT AATCTGCTGC TTGCAAACAA AAAAACCACC GCTACCAGCG
+     1021 GTGGTTTGTT TGCCGGATCA AGAGCTACCA ACTCTTTTTC CGAAGGTAAC TGGCTTCAGC
+     1081 AGAGCGCAGA TACCAAATAC TGTTCTTCTA GTGTAGCCGT AGTTAGGCCA CCACTTCAAG
+     1141 AACTCTGTAG CACCGCCTAC ATACCTCGCT CTGCTAATCC TGTTACCAGT GGCTGCTGCC
+     1201 AGTGGCGATA AGTCGTGTCT TACCGGGTTG GACTCAAGAC GATAGTTACC GGATAAGGCG
+     1261 CAGCGGTCGG GCTGAACGGG GGGTTCGTGC ACACAGCCCA GCTTGGAGCG AACGACCTAC
+     1321 ACCGAACTGA GATACCTACA GCGTGAGCTA TGAGAAAGCG CCACGCTTCC CGAAGGGAGA
+     1381 AAGGCGGACA GGTATCCGGT AAGCGGCAGG GTCGGAACAG GAGAGCGCAC GAGGGAGCTT
+     1441 CCAGGGGGAA ACGCCTGGTA TCTTTATAGT CCTGTCGGGT TTCGCCACCT CTGACTTGAG
+     1501 CGTCGATTTT TGTGATGCTC GTCAGGGGGG CGGAGCCTAT GGAAAAACGC CAGCAACGCG
+     1561 GCCTTTTTAC GGTTCCTGGC CTTTTGCTGG CCTTTTGCTC ACATGTTCTT TCCTGCGTTA
+     1621 TCCCCTGATT CTGTGGATAA CCGTATTACC GCCTTTGAGT GAGCTGATAC CGCTCGCCGC
+     1681 AGCCGAACGA CCGAGCGCAG CGAGTCAGTG AGCGAGGAAG CGGAGGAGCG CCCAATACGC
+     1741 AAACCGCCTC TCCCCGCGCG TTGGCCGATT CATTAATGCA GCTGGCACGA CAGGTTTCCC
+     1801 GACTGGAAAG CGGGCAGTGA GCGCAACGCA ATTAATACGC GTACCGCTAG CCAGGAAGAG
+     1861 TTTGTAGAAA CGCAAAAAGG CCATCCGTCA GGATGGCCTT CTGCTTAGTT TGATGCCTGG
+     1921 CAGTTTATGG CGGGCGTCCT GCCCGCCACC CTCCGGGCCG TTGCTTCACA ACGTTCAAAT
+     1981 CCGCTCCCGG CGGATTTGTC CTACTCAGGA GAGCGTTCAC CGACAAACAA CAGATAAAAC
+     2041 GAAAGGCCCA GTCTTCCGAC TGAGCCTTTC GTTTTATTTG ATGCCTGGCA GTTCCCTACT
+     2101 CTCGCGTTAA CGCTAGCATG GATGTTTTCC CAGTCACGAC GTTGTAAAAC GACGGCCAGT
+     2161 CTTAAGCTCG GCTCTTCGCA CCTAATACGA CTCACTATAa Ggtttgcttc tgacacaact
+     2221 gtgttcacta gcaacctcaa acagacaccg ccaccatggt gagcaagggc gaggagctgt
+     2281 tcaccggggt ggtgcccatc ctggtcgagc tggacggcga cgtaaacggc cacaagttca
+     2341 gcgtgtccgg cgagggcgag ggcgatgcca cctacggcaa gctgaccctg aagctgatct
+     2401 gcaccaccgg caagctgccc gtgccctggc ccaccctcgt gaccaccctg ggctacggcc
+     2461 tgcagtgctt cgcccgctac cccgaccaca tgaagcagca cgacttcttc aagtccgcca
+     2521 tgcccgaagg ctacgtccag gagcgcacca tcttcttcaa ggacgacggc aactacaaga
+     2581 cccgcgccga ggtgaagttc gagggcgaca ccctggtgaa ccgcatcgag ctgaagggca
+     2641 tcgacttcaa ggaggacggc aacatcctgg ggcacaagct ggagtacaac tacaacagcc
+     2701 acaacgtcta tatcaccgcc gacaagcaga agaacggcat caaggccaac ttcaagatcc
+     2761 gccacaacat cgaggacggc ggcgtgcagc tcgccgacca ctaccagcag aacaccccca
+     2821 tcggcgacgg ccccgtgctg ctgcccgaca accactacct gagctaccag tccaagctga
+     2881 gcaaagaccc caacgagaag cgcgatcaca tggtcctgct ggagttcgtg accgccgccg
+     2941 ggatcactct cggcatggac gagctgtaca agaagcttag ccatggcttc ccgccggagg
+     3001 tggaggagca ggatgatggc acgctgccca tgtcttgtgc ccaggagagc gggatggacc
+     3061 gtcaccctgc agcctgtgct tctgctagga tcaatgtgtg ataaGTCTAG AAACCAAAGA
+     3121 GATTCCTCAT AAAAACCAAA GAGATTCCTC ATAAAgctcg ctttcttgct gtccaatttc
+     3181 tattaaaggt tcctttgttc cctaagtcca actactaaac tgggggatat tatgaagggc
+     3241 cttgagcatc tggattctgc ctaataaaaa acatttattt tcattgcaaa aaaaaaaaaa
+     3301 aaaaaaaaaa aaaaaaagca tatgactaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+     3361 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaAT AAGAAGAGCA TCCCATGGTC
+     3421 ATAGCTGTTT CCTGGCAGCT CTGGCCCGTG TCTCAAAATC TCTGATGTTA CATTGCACAA
+     3481 GATAAAAATA TATCATCATG AACAATAAAA CTGTCTGCTT ACATAAACAG TAATACAAGG
+     3541 GGTGTT
+//
