@@ -1,0 +1,10 @@
+LOCUS       WLP118::WAT017-5'UTR-8x-MS 0 bp ds-DNA     linear       04-OCT-2022
+DEFINITION  .
+KEYWORDS    "Gene" "Amino Acid Chain" "Signal Peptide" "Signal Sequence"
+            "Promoter" "Parent Plasmid" "UTR" "Target Site(s)" "Linker"
+            "Program" "MoClo Tier" "Restriction Enzyme Recognition Site"
+            "Antibiotic Resistance"
+FEATURES             Location/Qualifiers
+ORIGIN
+
+//
